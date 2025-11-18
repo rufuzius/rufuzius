@@ -14,7 +14,7 @@
 ![alt text](https://www.the-sun.com/wp-content/uploads/sites/6/2023/09/1ecedc4e-1b53-4cd3-bb10-c14fd7bf6027.jpg?quality=90&strip=all)
 ##### I programm mainly in python because thats the only langauage I know and I'm to dumb for any other of those
 
-## I am Starving, if you want to donate something to me do this [here](https://github.com/rufuzius))
+## I am Starving, if you want to donate something to me do this [here](https://github.com/rufuzius)
 <!--
 **rufuzius/rufuzius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
